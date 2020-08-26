@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "1088001761581",
+    "firebase_url": "https://date-formats.firebaseio.com",
+    "project_id": "date-formats",
+    "storage_bucket": "date-formats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088001761581:android:4f327eee973eb7ef94f3a4",
+        "android_client_info": {
+          "package_name": "com.CobraApps.bgi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088001761581-tvjhfi2tvfo5cbd6v2dvltkcko9s0ssq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CobraApps.bgi",
+            "certificate_hash": "39504510ae2ddc3b0832af839874f6a6bec7512d"
+          }
+        },
+        {
+          "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fBFmVr1dbD4HcSqlNFBGOY5tlRIrFaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9468435791390939~9194457102"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088001761581:android:e824c07588868c1a94f3a4",
+        "android_client_info": {
+          "package_name": "com.CobraApps.mww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088001761581-mbgh8nn7aucbhs1bs0vg06take7ujfr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CobraApps.mww",
+            "certificate_hash": "39504510ae2ddc3b0832af839874f6a6bec7512d"
+          }
+        },
+        {
+          "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fBFmVr1dbD4HcSqlNFBGOY5tlRIrFaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088001761581:android:21a17f7b3e06bab894f3a4",
+        "android_client_info": {
+          "package_name": "com.CobraApps.plgt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088001761581-90v4kjb1i8jrq2qo92bkeie4umr56rmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CobraApps.plgt",
+            "certificate_hash": "39504510ae2ddc3b0832af839874f6a6bec7512d"
+          }
+        },
+        {
+          "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fBFmVr1dbD4HcSqlNFBGOY5tlRIrFaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9468435791390939~2930273994"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088001761581:android:b9767a434523352594f3a4",
+        "android_client_info": {
+          "package_name": "com.CobraApss.dateFormat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088001761581-2ufet71tgt9e51oenoqnd6ekmgukko4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CobraApss.dateFormat",
+            "certificate_hash": "ae2578ba742aab84b3191d8c59503dacd029f9ba"
+          }
+        },
+        {
+          "client_id": "1088001761581-f2glubjjome39vs7vm00s8dcs33vmtqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CobraApss.dateFormat",
+            "certificate_hash": "39504510ae2ddc3b0832af839874f6a6bec7512d"
+          }
+        },
+        {
+          "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4fBFmVr1dbD4HcSqlNFBGOY5tlRIrFaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088001761581-6vp99r6jfpbvmnncq8bbkh8q7ev7ta3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9468435791390939~5852876844"
+    }
+  ],
+  "configuration_version": "1"
+}
